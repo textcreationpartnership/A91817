@@ -1,0 +1,2062 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The black remembrancer for the year of our Lord God, 1661. Containing divers remarkable things, profitable and necessary to be known by all sorts of persons. / Written by Thomas Riders, student in the Mathematicks.</title>
+            <author>Riders, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91817</idno>
+            <idno type="STC">Wing R1448</idno>
+            <idno type="STC">Thomason 669.f.26[18]</idno>
+            <idno type="STC">ESTC R210808</idno>
+            <idno type="EEBO-CITATION">99869565</idno>
+            <idno type="PROQUEST">99869565</idno>
+            <idno type="VID">163900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163900)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f26[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The black remembrancer for the year of our Lord God, 1661. Containing divers remarkable things, profitable and necessary to be known by all sorts of persons. / Written by Thomas Riders, student in the Mathematicks.</title>
+                  <author>Riders, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year of restauration. [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "1660. Oct. 8."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="almanac">
+            <pb facs="tcp:163900:1" rendition="simple:additions"/>
+            <head>THE BLACK
+REMEMBRANCER
+For the Year of our LORD GOD, 1661.</head>
+            <head>Containing divers remarkable Things, profitable and neceſſary to be known by all ſorts of perſons.</head>
+            <byline>Written by THOMAS RIDERS, Student in the Mathematicks.</byline>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="4">January 31.</cell>
+                     <cell cols="4">February 28.</cell>
+                     <cell cols="4">March 31.</cell>
+                     <cell cols="4">April 30.</cell>
+                     <cell cols="4">May 31.</cell>
+                     <cell cols="4">June 30.</cell>
+                     <cell cols="4">July 31.</cell>
+                     <cell cols="4">Auguſt 31.</cell>
+                     <cell cols="4">Septemb. 30.</cell>
+                     <cell cols="4">October 31.</cell>
+                     <cell cols="4">Novem. 30.</cell>
+                     <cell cols="4">Decemb. 31.</cell>
+                  </row>
+                  <row>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                     <cell>M</cell>
+                     <cell>W</cell>
+                     <cell>Feſtivals</cell>
+                     <cell>
+                        <g ref="char:Moon">☽</g>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                     <cell>D</cell>
+                     <cell>D</cell>
+                     <cell>Sun riſe</cell>
+                     <cell>pl.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                           <item>31</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>New year</item>
+                           <item>Sun riſe at 8.</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Epiphany</item>
+                           <item>☉ in Aqu.</item>
+                           <item>Hygin</item>
+                           <item>Laſt quar.</item>
+                           <item>Sun riſes at 7. 45.</item>
+                           <item>Anthony</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Sun riſes at 7. 34.</item>
+                           <item>Termbeg.</item>
+                           <item>Con. Paul</item>
+                           <item>Polycarp.</item>
+                           <item>Firſt quar</item>
+                           <item>Sun riſes at 7. 21.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♋</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Purif.</item>
+                           <item>Sun riſes at 7. 14.</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Dorothy</item>
+                           <item>☉ in ♓</item>
+                           <item>Septuag.</item>
+                           <item>Laſt quar.</item>
+                           <item>Term end</item>
+                           <item>Sun riſes at 6. 56;</item>
+                           <item>Valentine</item>
+                           <item>Sexageſ.</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Sun riſes at 6. 40.</item>
+                           <item>Quinqua.</item>
+                           <item>Matthias</item>
+                           <item>Shr. tueſd.</item>
+                           <item>Aſhwedn.</item>
+                           <item>Roman.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                           <item>31</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Sun riſes at 6. 24.</item>
+                           <item>Adrian</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Sun riſes at 6.</item>
+                           <item>☉ in aries</item>
+                           <item>Gregory</item>
+                           <item>Laſt quar.</item>
+                           <item>Sun riſes at 5. 48.</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Benedict.</item>
+                           <item>Mid-lent</item>
+                           <item>Lady-day</item>
+                           <item>Firſt quar.</item>
+                           <item>Sun riſes at 5. 27.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Sun riſes at 5. 20</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Palmar.</item>
+                           <item>☉ in Taur.</item>
+                           <item>Laſt quart.</item>
+                           <item>Juliusſ</item>
+                           <item>Eaſter</item>
+                           <item>Sun riſes at 4. 52.</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Valerius</item>
+                           <item>St. George</item>
+                           <item>St. Mark</item>
+                           <item>Firſt quar.</item>
+                           <item>Sun riſes at 4. 27.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                           <item>31</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Term beg</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Jubilate</item>
+                           <item>Sun riſes at 4. 15.</item>
+                           <item>Laſt quar.</item>
+                           <item>☉ in Gem.</item>
+                           <item>Cantate</item>
+                           <item>Sun riſes at 4. 5.</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Rogate</item>
+                           <item>Sun riſes at 3. 55.</item>
+                           <item>Aſcenſion</item>
+                           <item>Firſt quar.</item>
+                           <item>Term end</item>
+                           <item>Wigand.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Whitſund and full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Sun riſes at 3. 48.</item>
+                           <item>Medard</item>
+                           <item>Trinity</item>
+                           <item>Laſt quar.</item>
+                           <item>☉ in Cane.</item>
+                           <item>Term beg</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Sun riſes at 3. 49.</item>
+                           <item>Silverius</item>
+                           <item>Laſt quar.</item>
+                           <item>St. John</item>
+                           <item>Sun riſes at 3. 53.</item>
+                           <item>Peter and Paul</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                           <item>31</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>f</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Term end</item>
+                           <item>Sun riſes at 4.</item>
+                           <item>Laſt quar.</item>
+                           <item>Pius</item>
+                           <item>☉ in Leo</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Sun riſes at 4. 15.</item>
+                           <item>Firſt quar.</item>
+                           <item>St. James</item>
+                           <item>Sun riſes at 4. 30.</item>
+                           <item>Deg days</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                           <item>31</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>f</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Lammas</item>
+                           <item>Sun riſes at 4. 40.</item>
+                           <item>Laſt quar.</item>
+                           <item>Laurence</item>
+                           <item>Clara</item>
+                           <item>☉ in Virgo</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Sun riſes at 5. 7.</item>
+                           <item>Sebaldus</item>
+                           <item>Firſt quar.</item>
+                           <item>Barthel.</item>
+                           <item>Sun riſes at 5. 24.</item>
+                           <item>Gebhard</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Paulin.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Sun riſes at 5. 37.</item>
+                           <item>Laſt quar.</item>
+                           <item>Regina</item>
+                           <item>Sun riſes at 5. 55.</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>☉ in Libra</item>
+                           <item>Euphem.</item>
+                           <item>Sun riſes at 6. 12.</item>
+                           <item>Firſt quar.</item>
+                           <item>Samuel</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Michaelm</item>
+                           <item>Fieronim.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                           <item>31</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Remigius</item>
+                           <item>Laſt quar.</item>
+                           <item>Sun riſes at 6. 46.</item>
+                           <item>Gideon</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>☉ in Scor.</item>
+                           <item>Sun riſes at 7. 6.</item>
+                           <item>St. Luke</item>
+                           <item>Firſt quar.</item>
+                           <item>Term beg</item>
+                           <item>Chriſpin</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>S<gap reason="illegible: faint" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>m<gap reason="illegible: faint" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n &amp;</item>
+                           <item>Jude</item>
+                           <item>Sun riſes at 7. 30.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>All saints</item>
+                           <item>Sun riſes at 7. 39.</item>
+                           <item>Florent.</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>☉ in Sag.</item>
+                           <item>Sun riſes at 7. 53.</item>
+                           <item>Firſt quar.</item>
+                           <item>Elizabeth</item>
+                           <item>Sun riſes at 8. 2.</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Conrand.</item>
+                           <item>Termend</item>
+                           <item>Andrew</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>1</item>
+                           <item>2</item>
+                           <item>3</item>
+                           <item>4</item>
+                           <item>5</item>
+                           <item>6</item>
+                           <item>7</item>
+                           <item>8</item>
+                           <item>9</item>
+                           <item>10</item>
+                           <item>11</item>
+                           <item>12</item>
+                           <item>13</item>
+                           <item>14</item>
+                           <item>15</item>
+                           <item>16</item>
+                           <item>17</item>
+                           <item>18</item>
+                           <item>19</item>
+                           <item>20</item>
+                           <item>21</item>
+                           <item>22</item>
+                           <item>23</item>
+                           <item>24</item>
+                           <item>25</item>
+                           <item>26</item>
+                           <item>27</item>
+                           <item>28</item>
+                           <item>29</item>
+                           <item>30</item>
+                           <item>31</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                           <item>b</item>
+                           <item>c</item>
+                           <item>d</item>
+                           <item>e</item>
+                           <item>F</item>
+                           <item>g</item>
+                           <item>a</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>Sun riſes at 8. 10.</item>
+                           <item>Laſt quar.</item>
+                           <item>Nicholas</item>
+                           <item>Joachim</item>
+                           <item>New <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>☉ in Capr.</item>
+                           <item>Lucia</item>
+                           <item>Sun riſes at 8. 13.</item>
+                           <item>Firſt quar.</item>
+                           <item>Thomas</item>
+                           <item>Full <g ref="char:Moon">☽</g>
+                           </item>
+                           <item>Chriſtmas</item>
+                           <item>S. Stephen</item>
+                           <item>St. John</item>
+                           <item>Innocents</item>
+                           <item>Sun riſes at 8. 2.</item>
+                           <item>Silveſter</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                           <item>♒</item>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <item>The Spring initiates this year on <hi>March</hi> 9. 12 h. 40′</item>
+               <item>The Summer commences this year on <hi>June</hi> 10. 15 h. 36′
+<list>
+                     <item>Afternoon</item>
+                  </list>
+               </item>
+               <item>The Harveſt begins this year, <hi>September</hi> 12. 6 h. 39′</item>
+               <item>The Winter inchoates this year, <hi>December</hi> 10. 18 h. 17′
+<list>
+                     <item>Afternoon</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_judges">
+            <head>The Names of thoſe perſons who preſumed to ſit ſeveral times
+actually, as Judges upon our late Sovereign Lord King Charles the I.
+whereof ſeventy three did paſs Sentence of Death upon Him, as is
+Recorded in an Addition to that Divine Piece, Entituled, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+written by His Sacred Majeſties own Hand, Fol. 299.</head>
+            <list>
+               <item>SErjeant <hi>John Brad<g ref="char:EOLhyphen"/>ſhaw,</hi>
+Preſident.</item>
+               <item>Lieu. Gen. <hi>O. Cromwel.</hi>
+               </item>
+               <item>Com. Gen. <hi>Hen. Ireton</hi>
+               </item>
+               <item>Major Gen. <hi>Skippon.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Hardreſs Waller.</item>
+               <item>
+                  <hi>Col.</hi> Thomas Harriſon</item>
+               <item>
+                  <hi>Col.</hi> Edward Whalley</item>
+               <item>
+                  <hi>Col.</hi> Thomas Pride</item>
+               <item>
+                  <hi>Col.</hi> Iſaac Ewer</item>
+               <item>
+                  <hi>Col.</hi> Rich Ingoldsby</item>
+               <item>
+                  <hi>Sir</hi> Henry Mildmay</item>
+               <item>Thomas <hi>Lord</hi> Grey</item>
+               <item>Philip <hi>Lord</hi> Liſle</item>
+               <item>Wil. <hi>Lord</hi> Munſon.</item>
+               <item>
+                  <hi>Sir</hi> John Danvers</item>
+               <item>
+                  <hi>Sir</hi> Tho. Maleverer</item>
+               <item>
+                  <hi>Sir</hi> John Bowcher</item>
+               <item>
+                  <hi>Sir</hi> James Harrington</item>
+               <item>
+                  <hi>Sir</hi> Wil. Brereton</item>
+               <item>Wil. Henningham <hi>Eſq.</hi>
+               </item>
+               <item>Iſaac Pennington <hi>Ald.</hi>
+               </item>
+               <item>Tho. Atkins <hi>Alderman</hi>
+               </item>
+               <item>Rowland Wilſon <hi>Alder.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Peter Wentworth</item>
+               <item>
+                  <hi>Col.</hi> Henry Martin</item>
+               <item>
+                  <hi>Col.</hi> VVil. Purefoy</item>
+               <item>
+                  <hi>Col.</hi> Godfrey Boſvil.</item>
+               <item>
+                  <hi>Col.</hi> John Barkſtead</item>
+               <item>
+                  <hi>Sir</hi> VVil. Conſtable</item>
+               <item>
+                  <hi>Col.</hi> Edward Ludlow</item>
+               <item>
+                  <hi>Col.</hi> John Hutchinſon</item>
+               <item>
+                  <hi>Col.</hi> Robert Titcborn</item>
+               <item>
+                  <hi>Col.</hi> Owen Roe</item>
+               <item>
+                  <hi>Col.</hi> Adrian Scroop</item>
+               <item>
+                  <hi>Col.</hi> John Okey</item>
+               <item>
+                  <hi>Col.</hi> John Harriſon</item>
+               <item>
+                  <hi>Col.</hi> John Deſbrow</item>
+               <item>Cornelius Holland <hi>Eſq.</hi>
+               </item>
+               <item>Miles Corbet <hi>Eſq.</hi>
+               </item>
+               <item>Francis Allen <hi>Eſq.</hi>
+               </item>
+               <item>Peregrine Pelham <hi>Eſq.</hi>
+               </item>
+               <item>John Gourd<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Eſq.</hi>
+               </item>
+               <item>
+                  <hi>Serj.</hi> Francis Thorp</item>
+               <item>Tho. Challoner <hi>Eſq.</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> John Moor</item>
+               <item>John Allured <hi>Eſq.</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> Francis Laſſels</item>
+               <item>Henry Smith <hi>Eſq.</hi>
+               </item>
+               <item>James Challoner <hi>Eſq.</hi>
+               </item>
+               <item>Dennis Bond <hi>Eſq.</hi>
+               </item>
+               <item>Humph Edwards <hi>Eſq.</hi>
+               </item>
+               <item>Gregory Clement <hi>Eſq.</hi>
+               </item>
+               <item>John Fry <hi>Eſq.</hi>
+               </item>
+               <item>Thomas VVogan <hi>Eſq.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Gregory Norton</item>
+               <item>
+                  <hi>Col.</hi> Edmund Harvey</item>
+               <item>John Dove <hi>Eſq.</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> John Venn</item>
+               <item>Jo. Foulks <hi>Alderman</hi>
+               </item>
+               <item>Thomas Scot</item>
+               <item>Tho. Andrews <hi>Alderm.</hi>
+               </item>
+               <item>Wil. Cawley <hi>Eſq.</hi>
+               </item>
+               <item>Anthony Stapely</item>
+               <item>Jo. Liſle <hi>Eſq.</hi>
+               </item>
+               <item>Jo. Corbet <hi>Eſq.</hi>
+               </item>
+               <item>Tho. Blount <hi>Eſq.</hi>
+               </item>
+               <item>Tho. Boon <hi>Eſq.</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> George Fleetwood</item>
+               <item>
+                  <hi>Col.</hi> James Temple</item>
+               <item>
+                  <hi>Col.</hi> James Wait</item>
+               <item>Jo. Brown <hi>Eſq.</hi>
+               </item>
+               <item>VVil. Say <hi>Eſq.</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> Mat. Thomlinſon</item>
+               <item>John Blackeſton</item>
+               <item>Gilbert Millington</item>
+               <item>Abraham Barrel</item>
+               <item>
+                  <hi>Col.</hi> Jo. Downes</item>
+               <item>Mr. <hi>Norton</hi>
+               </item>
+               <item>L. G. <hi>Tho. Hammond</hi>
+               </item>
+               <item>Nich. Love</item>
+               <item>Auguſtine Garland</item>
+               <item>
+                  <hi>Sir</hi> Miles Liveſey</item>
+               <item>John Dixwel</item>
+               <item>Symon May<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</item>
+               <item>Daniel Blagrave</item>
+               <item>
+                  <hi>Col.</hi> Rob. Lilbourn</item>
+               <item>
+                  <hi>Col.</hi> Rich. Dean</item>
+               <item>
+                  <hi>Col.</hi> Hewſon</item>
+               <item>L. Col. <hi>Wil. Goff</hi>
+               </item>
+               <item>Mr. <hi>Carew</hi>
+               </item>
+               <item>John Jones.</item>
+            </list>
+         </div>
+         <div type="list_of_assistants">
+            <head>Ninety two in all.</head>
+            <head type="sub">Councellors, Aſsiſtants
+to draw up the Charge
+againſt the King.</head>
+            <p>Dr. <hi>Iſaac Doriſlaus,</hi>
+Mr. <hi>Aske,</hi> Mr.
+<hi>Cook.</hi> Mr. <hi>Steel</hi> (who
+by reaſon of Sickneſs
+was abſent.) Serjeant
+<hi>Danby,</hi> Serjeant at
+Arms. Maſter <hi>Phelps</hi>
+Clerk.</p>
+         </div>
+         <div type="list_of_messengers">
+            <head>Meſſengers and Door-keepers.</head>
+            <p>MAſter <hi>VValford.</hi>
+Mr <hi>Radley,</hi> Mr.
+<hi>Pain,</hi> Mr. <hi>Powel,</hi> Mr.
+<hi>Hull.</hi>
+            </p>
+            <p>Mr. <hi>King</hi> the Cryer.</p>
+         </div>
+         <div type="list_of_accusers">
+            <head>The Names of the Evidence that either
+did, or were ready to Swear away His moſt
+Sacred Majeſties Life.</head>
+            <p>1. <hi>HEnry Hartford</hi>
+of tratford up<g ref="char:EOLhyphen"/>on
+Avon, <hi>Warickſhire.</hi>
+            </p>
+            <p>2. <hi>Edward Roberts</hi> of
+Biſhops-Caſtle <hi>Shrop<g ref="char:EOLhyphen"/>ſhire</hi>
+Ironmonger.</p>
+            <p>3. <hi>Wil Brayns</hi> of Wix
+al in <hi>Shropſhire,</hi> Gent.</p>
+            <p>4. <hi>Rob Lacque</hi> of No<g ref="char:EOLhyphen"/>tingham,
+Painter</p>
+            <p>5. <hi>Rob. Loads</hi> of Cot<g ref="char:EOLhyphen"/>tam
+in the county of
+of Notingham Tyler.</p>
+            <p>6. <hi>Samuel Morgan</hi> of
+Wellington in Shrop<g ref="char:EOLhyphen"/>ſhire,
+Feltmaker.</p>
+            <p>7. <hi>James Williams</hi> of
+Roſs in Hartfordſhire,
+Shooe maker.</p>
+            <p>8. <hi>Rich. Pots</hi> of Shar<g ref="char:EOLhyphen"/>perton
+in Northumber<g ref="char:EOLhyphen"/>land,
+V<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntner.</p>
+            <p>9. <hi>Giles Grice</hi> of Wel<g ref="char:EOLhyphen"/>lington
+in Shropſ G<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt</p>
+            <p>10. William Arnopp</p>
+            <p>11. John Hudſon</p>
+            <p>12. <hi>John Winſton</hi> of
+Dornorham, Wiltſhire.</p>
+            <p>13. <hi>George Ceely</hi> of
+London, Cordwayner</p>
+            <p>14. <hi>Ioh. Moor</hi> of Cork
+in Ireland, Gent.</p>
+            <p>15. <hi>Tho Ives</hi> of Boyſet
+in Northamptonſhire,
+Husbandman.</p>
+            <p>16. <hi>Iames Creſby</hi> of
+Dublin, Barber.</p>
+            <p>17. <hi>Tho. Rawlins</hi> of
+Hanſlop, <hi>Bucks.</hi> Gent.</p>
+            <p>18. Rich. Bloomfield <hi>of</hi>
+London, <hi>Weaver.</hi>
+            </p>
+            <p>19. <hi>John Thomas</hi> of
+Langallan, Denbighſh.</p>
+            <p>20. <hi>Wil. Lawſon</hi> of No<g ref="char:EOLhyphen"/>tingham,
+Maulſter.</p>
+            <p>21. <hi>John Pinegar</hi> of
+Damar in Derbyſhire,
+Shooemaker.</p>
+            <p>22. <hi>Humph. Brown</hi> of
+Whitſundine, Rutland.</p>
+            <p>23. Robert Holms.</p>
+            <p>24 <hi>Sam. Woorden</hi> of
+Lyneham, <hi>Wilts,</hi> Gent.</p>
+            <p>25. <hi>Tho. Read</hi> of Maid<g ref="char:EOLhyphen"/>ſtone
+in <hi>Kent,</hi> Gent.</p>
+            <p>26. <hi>George Cornwal</hi> of
+Aſton in Herefordſhire
+Smith.</p>
+            <p>27. <hi>Wil. Jones</hi> of Usk
+in Monmouthſhire, Huſ<g ref="char:EOLhyphen"/>bandman.</p>
+            <p>28. <hi>Arthur Young</hi> of
+<hi>London,</hi> Barber-Chy<g ref="char:EOLhyphen"/>rurgeon.</p>
+            <p>29. <hi>Diogenes Edwards</hi>
+of Carlton in Shrop<g ref="char:EOLunhyphen"/>ſhire,
+Butcher.</p>
+            <p>30. <hi>John Bennet</hi> of
+Harwood, Yorkſhire,
+Glover.</p>
+            <p>31. <hi>Wil. Cutbert</hi> of
+Pattington, Yorkſhire,
+Gent.</p>
+            <p>32. Richard Price <hi>of</hi>
+London, <hi>Scrivener.</hi>
+            </p>
+            <p>33. <hi>Henry Gouch</hi> of
+Grays Inne, Gent.</p>
+         </div>
+         <div type="list_of_officials">
+            <head>The Names of the pre<g ref="char:EOLhyphen"/>tended
+Mayor and Al<g ref="char:EOLhyphen"/>dermen
+of London, that
+perſonally proclaimed the
+Act for aboliſhing Kingly
+Government.</head>
+            <list>
+               <item>ALderm. <hi>Andrews</hi>
+               </item>
+               <item>Mayor.</item>
+               <item>Alder. <hi>Penington</hi>
+               </item>
+               <item>Alder. <hi>Foulks</hi>
+               </item>
+               <item>Alder. <hi>Kenrick</hi>
+               </item>
+               <item>Alder. <hi>Byde</hi>
+               </item>
+               <item>Alder. <hi>Edmonds</hi>
+               </item>
+               <item>Alder. <hi>Pack</hi>
+               </item>
+               <item>Alder. <hi>Atkins</hi>
+               </item>
+               <item>Alder. <hi>Venne</hi>
+               </item>
+               <item>Alder. <hi>Avery</hi>
+               </item>
+               <item>Alder. <hi>Wilſon</hi>
+               </item>
+               <item>Alder. <hi>Dethick</hi>
+               </item>
+               <item>Alder. <hi>Foot</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_generals">
+            <head>The Names of the Ma<g ref="char:EOLhyphen"/>jor
+Generals that ſo re<g ref="char:EOLhyphen"/>ligiouſly
+decimated the
+Loyal Gentry.</head>
+            <list>
+               <item>COlonel <hi>Kelſey</hi>
+               </item>
+               <item>Colonel <hi>Goff</hi>
+               </item>
+               <item>General <hi>Deſborough</hi>
+               </item>
+               <item>Lieu. Gen. <hi>Fleetwood</hi>
+               </item>
+               <item>Major Gen <hi>Skippon</hi>
+               </item>
+               <item>Commiſ. Gen. <hi>Whally</hi>
+               </item>
+               <item>Major <hi>Butler</hi>
+               </item>
+               <item>Colonel <hi>Berry</hi>
+               </item>
+               <item>Colonel <hi>Wortley</hi>
+               </item>
+               <item>Major General <hi>Lam<g ref="char:EOLhyphen"/>bert.</hi>
+               </item>
+               <item>Colonel <hi>Barkſtead.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_council_members">
+            <head>The Names of Oliver
+Cromwel's Privy-Council.</head>
+            <list>
+               <item>HEnry Lawrence <hi>Pre<g ref="char:EOLhyphen"/>ſident.</hi>
+               </item>
+               <item>Lieu. Gen. <hi>Fleetwood.</hi>
+               </item>
+               <item>Major Gen. <hi>Lambert.</hi>
+               </item>
+               <item>Philip <hi>Lord</hi> Liſle.</item>
+               <item>Nathaniel Fiennes.</item>
+               <item>John Desboro<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>Edward Montague.</item>
+               <item>
+                  <hi>Sir</hi> Gilbert Pickering.</item>
+               <item>
+                  <hi>Sir</hi> Charls VVoolſley.</item>
+               <item>
+                  <hi>Col.</hi> VVil. Sydenham.</item>
+               <item>
+                  <hi>Edm.</hi> Earl of <hi>Mulgrave.</hi>
+               </item>
+               <item>VValter Strickland <hi>Eſq.</hi>
+               </item>
+               <item>Philip Sk<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppon.</item>
+               <item>
+                  <hi>Col.</hi> Philip Jones.</item>
+               <item>Richard Major <hi>Eſq.</hi>
+               </item>
+               <item>Francis Rouſe <hi>Eſq.</hi>
+               </item>
+               <item>John Thurloe <hi>Secretary.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="list_of_court_judges">
+            <head>The Names of the Judges
+in the Courts of Law and
+Equity, as they ſate and
+acted in Olivers time.</head>
+            <list>
+               <item>JOhn Glynn</item>
+               <item>Peter Warburton</item>
+               <item>Rich. Nudigate
+<list>
+                     <item>for the K Bench</item>
+                  </list>
+               </item>
+               <item>Oliver St John</item>
+               <item>Edward Atkins</item>
+               <item>Mathew Hale</item>
+               <item>Hugh Windham
+<list>
+                     <item>for the Com<g ref="char:EOLhyphen"/>mon
+Bench.</item>
+                  </list>
+               </item>
+               <item>Nath. Fiennes</item>
+               <item>John Liſle.
+<list>
+                     <item>for the Chan<g ref="char:EOLhyphen"/>cery.</item>
+                  </list>
+               </item>
+               <item>Wil. Lenthal. Mr. of the Rolls.</item>
+               <item>Rob Nicholas</item>
+               <item>John Parker</item>
+               <item>Roger Hill
+<list>
+                     <item>for the Exche<g ref="char:EOLhyphen"/>quer.</item>
+                  </list>
+               </item>
+               <item>Edmo. Prideaux Att. Gen.</item>
+               <item>Wil. Ellis, Sollicit Gen.</item>
+               <item>Eraſmus Earle Serjeant at Law.</item>
+            </list>
+         </div>
+         <div type="list_of_the_exempt">
+            <head>A Liſt of the Names
+of thoſe perſons exempted
+from Pardon, by the Act
+of Indempnity.</head>
+            <p>
+               <hi>SIr</hi> Henry Vane, John
+Lambert, John Liſle,
+William Say, <hi>Sir</hi> Hardreſs
+Waller, Valentine Wan<g ref="char:EOLhyphen"/>ton,
+Thomas Harriſon,
+Edw. Whalley, William
+Heveningham, Iſaac Pen<g ref="char:EOLhyphen"/>ington,
+Henry Martin, John
+Barkſtead, Gilbert Mil<g ref="char:EOLhyphen"/>lington
+Edmund Ludlow,
+<hi>Sir</hi> Michael Liveſey, Rob:
+Titchborn, Owen Row,
+Robert Lilburn, Adrian
+Scroop, John Okey, John
+Hewſon, Wil: Goff, Corn.
+Holland, Tho. Challoner,
+John Carew, John Jones,
+Miles Corbet, Hen: Smith,
+Gregory Clement, Tho<g ref="char:EOLhyphen"/>mas
+Wogan, Edm: Harvey
+Tho: Scot, Wil. Cawley,
+John Downs, Nich: Love,
+Vincent Potter, Auguſtine
+Garland, John Dixwel,
+Geor: Fleetwood, Simon
+Meyn, James Temple, Pet:
+Temple, Daniel Blagrave,
+Thom: Wait, John Cook,
+Andrew Broughton, Edw:
+Dendy, Wil: Hewlet, Hugh
+Peters, Francis Hacker,
+Daniel Axtel.</p>
+         </div>
+         <div type="explanation_of_signs">
+            <head>The Characters of the Signs
+explained.</head>
+            <p>♈ Aries, ♉ Taurus, ♊ Gemini,
+♋ Cancer, ♌ Leo, ♍ Virgo,
+♎ Libra, ♏ Scarpio, ♐ Sagi<g ref="char:EOLhyphen"/>ary,
+♑, Capricorn, ♒ Aqua<g ref="char:EOLhyphen"/>rius,
+♓ Piſcs.</p>
+         </div>
+         <div type="list_of_eclipses">
+            <head>Of the ECLIPSES this Year 1661.</head>
+            <p>There will be four Eclipſes of the Sun and Moon this Year, but we in <hi>England</hi> ſhall behold onely two of them, but I ſhall preſent you with them as they happen:</p>
+            <p>Firſt, on <hi>March</hi> 30. at half an hour after 9 in the morning, the Sun will be eclipſed above 7 digits, and it will be viſible to all <hi>Europe.</hi>
+            </p>
+            <p>Second, on <hi>April.</hi> 4. paſt 3 in the morning, the Moon will be eclipſed, but not to be ſeen of us, becauſe the Meridian thereof is removed ſo much Eaſtward.</p>
+            <p>Third, on <hi>September</hi> 13. near our noon-time the Sun will be eclipſed, but in regard of the Moons great South Latitude, it will not be viſible to us in <hi>England.</hi>
+            </p>
+            <p>Fourth, on <hi>September</hi> 28. about 4 a clock in the morning, the Moon will be 7 digits eclipſed, and this will be viſible if the Air be clear, to all <hi>Europe.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Johnſon,</hi> in the Year of Reſtauration.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
